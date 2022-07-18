@@ -13,11 +13,11 @@ content-type: application/json
 }
 
 ###
-POST http://localhost:8080/signup HTTP/1.1
+POST http://localhost:8080/api/signup HTTP/1.1
 content-type: application/json
 
 {
-  "email": "lwood3499@gmail.com",
+  "email": "accc@b.com",
   "password": "password123",
   "bills": []
 }
